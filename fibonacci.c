@@ -1,5 +1,6 @@
-/*
-    根据输入的数值，得到所输入数值后的Fibonacci值
+/*  
+    fibonacci值，1 1 2 3 5 8 13 21 34 55 .......;
+    *根据输入的数值，得到所输入数值后的Fibonacci值
     */
 #include <stdio.h>
 int main(){

@@ -1,5 +1,6 @@
 /*
-    创建g根据输入的x和y创建x*y的矩阵
+    理解掌握内外for循环之间的配合；
+    *创建g根据输入的x和y创建x*y的矩阵
     */
 #include <stdio.h>
 int main(){

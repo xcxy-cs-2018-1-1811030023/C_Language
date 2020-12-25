@@ -1,5 +1,5 @@
 /*
-    判断给定区间的素数
+    *判断给定区间的素数
     */
 #include <stdio.h>
 #include <math.h>
