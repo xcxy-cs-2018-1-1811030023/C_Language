@@ -26,6 +26,6 @@ int main(){
     printf("String b is:");
     for(i=0;b[i]!='\0';i++)
         printf("%c",b[i]);
-    printf("\n");
+    printf("\n"); 
     return 0;
 }
